@@ -1,4 +1,4 @@
-name: Deploy to DigitalOcean Droplet
+name: Deploy KB to Apache Server
 
 on:
   push:
@@ -13,5 +13,28 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Debug GitHub Secrets
-        run: echo "DO-HOST is set to ${{ secrets.DO_HOST }}"
+      - name: Set up SSH Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DO_DEPLOY_KEY_APACHE }}" | awk 'NF {sub(/\r/, ""); printf "%s\n",$0;}' > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.DO_HOST_APACHE }} >> ~/.ssh/known_hosts
+
+      - name: Debug SSH Connection
+        run: ssh -i ~/.ssh/id_rsa -v deploy@${{ secrets.DO_HOST_APACHE }} "echo Connected successfully"
+
+      - name: Deploy to Apache Server
+        run: |
+          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no deploy@${{ secrets.DO_HOST_APACHE }} << 'EOF'
+          set -e  # Exit on any error
+          
+          echo "🔄 Switching to KB directory..."
+          cd /var/www/html/docs || exit
+
+          echo "🔄 Fetching latest changes..."
+          git fetch origin kb
+          git reset --hard origin/kb
+          git clean -fd
+
+          echo "🛠 Installing dependencies..."
+          npm ci  # Ensures clean install

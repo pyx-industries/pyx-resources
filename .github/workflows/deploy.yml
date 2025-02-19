@@ -1,0 +1,17 @@
+name: Deploy to DigitalOcean Droplet
+
+on:
+  push:
+    branches:
+      - kb
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Debug GitHub Secrets
+        run: echo "DO-HOST is set to ${{ secrets.DO_HOST }}"

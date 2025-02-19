@@ -1,0 +1,55 @@
+Agriculture:
+  label: Agriculture
+  permalink: /agriculture
+  description: UNTP Agriculture
+
+Agrifood:
+  label: Agrifood
+  permalink: /agrifood
+  description: UNTP Agrifood
+  
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+pyx:
+  label: Pyx
+  permalink: /pyx
+  description: Pyx Global
+
+untp:
+  label: UNTP
+  permalink: /untp
+  description: United National Transparency Protocol
+
+UN/CEFACT:
+  label: UNCEFACT
+  permalink: /uncefact
+  description: United Nations Centre for Trade Facilitation and Electronic Business
+
+Recommendation 49:
+  label: Recommendation 49
+  permalink: /recommenation-49
+  description: Recommendation 49
+    
+Extensions:
+  label: Extensions
+  permalink: /extensions
+  description: UNTP Extensions
+

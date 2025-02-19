@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Welcome to the Pyx Community",
+  "description": "Join us in revolutionizing global supply chains through the United Nations Transparency Protocol (UNTP). Our community is the nexus where innovation meets sustainability, driving profitability for forward-thinking businesses.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/pyx-industries/pyx-community/edit/kb/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Trust Architecture",
+    "permalink": "/docs/category/trust-architecture"
+  }
+}

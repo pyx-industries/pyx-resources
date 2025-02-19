@@ -1,0 +1,222 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Light theme styles
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #000000;
+  --ifm-color-primary-dark: #d2bb2d;
+  --ifm-color-primary-darker: #5a5a5a;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #d2bb2d;
+  --ifm-color-primary-lighter: #efd765;
+  --ifm-color-primary-lightest: #e6e6e6;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Dark theme styling
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ffffff;
+  --ifm-color-primary-dark: #d2bb2d;
+  --ifm-color-primary-darker: #000000;
+  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-light: #d2bb2d;
+  --ifm-color-primary-lighter: #efd765;
+  --ifm-color-primary-lightest: #e6e6e6;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Global styling of light and dark themes
+/* Make the navbar background black in both light and dark modes */
+.navbar {
+  background-color: black; /* Set the background to black */
+}
+
+.navbar-sidebar__brand {
+  background-color: #303030;
+}
+
+/* Targeting the navbar toggle icon */
+.navbar__toggle {
+  color: #e6e6e6; /* Set the icon color to a lighter shade */
+  background-color: transparent; /* Ensure the background remains transparent */
+  border: none; /* Remove any borders if needed */
+}
+
+/* If you want to also change the hover color */
+.navbar__toggle:hover {
+  color: #d2bb2d; /* Make the icon even lighter on hover */
+}
+
+/* Make the text in the navbar Pyx Yellow */
+.navbar__inner a,
+.navbar__link,
+.navbar__brand {
+  color: #e6e6e6; /* Make text Pyx Gold */
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Change text color to #efd765 on hover */
+.navbar__inner a:hover,
+.navbar__link:hover,
+.navbar__brand:hover {
+  color: #efd765; /* Hover color */
+}
+
+/* Optional: Change the color of active links */
+.navbar__link--active {
+  color: #d2bb2d; /* Active link color */
+}
+
+/* More generalized selector to remove external link icons from navbar links */
+.navbar__item [class*="iconExternalLink"] {
+  display: none !important;
+}
+
+/* Reset margin or padding for the navbar */
+nav {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Additional style to ensure no spacing between the image and the navbar */
+.header {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Set the default font for the entire site */
+body {
+  font-family: 'Roboto', sans-serif; /* Use Roboto, fallback to sans-serif */
+}
+
+/* Ensure headings, paragraphs, and other elements also use Roboto */
+h1, h2, h3, h4, h5, h6, p, a, .navbar__link {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Change the footer background color */
+footer.footer {
+  background-color: #000000; /* Set the footer background to #5a5a5a */
+  color: #e6e6e6; /* Optional: Set the text color to white for contrast */
+  padding-top: 40px
+}
+
+/* Optional: Change the color of links in the footer */
+footer.footer a {
+  color: #e6e6e6; /* Set footer link color to white */
+}
+
+/* Optional: Change hover state for footer links */
+footer.footer a:hover {
+  color: #efd765; /* Set a hover color for links */
+}
+
+.footer__copyright {
+  color: #929292 !important; /* Replace with your desired color */
+  font-size: 0.8rem; /* Adjust the font size as needed */
+}
+
+/* Style the first column to add the logo */
+.footer__links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Ensures logo on far left, content on right */
+}
+
+/* Add logo to the first column (far left) */
+/* Style the footer to create more space between the logo and the columns */
+.footer__links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* This ensures logo on the far left and content on the right */
+  padding-left: 40px; /* Adds padding to push the content right */
+}
+
+/* Add logo to the first column (far left) */
+.footer__links::before {
+  content: '';
+  display: block;
+  background-image: url('/img/Pyx-primary-rgb-rev.svg'); /* Path to your logo */
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px; /* Adjust width */
+  height: 60px; /* Adjust height */
+  margin-right: 40px; /* Adjust space between the logo and the first column */
+}
+
+/* Optional: Add more space between the columns themselves */
+.footer__links .col {
+  margin-left: 0px; /* Increase the space between columns */
+}
+
+/* Button styling */
+.button.button--secondary.button--lg {
+  background-color: #efd765;
+  color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 35vh;
+  padding: 1rem 2rem;
+  font-size: 2vh;
+  border-radius: 8px;
+  border: none;
+  text-align: center;
+  border-radius: 50px;
+  transition: background-color 0.3s ease, padding 0.3s ease, font-size 0.3s ease;
+}
+
+.button.button--secondary.button--lg:hover {
+  background-color: #d2bb2d;
+}
+
+.icon {
+  width: 36px;
+  height: 36px;
+}
+
+.iconAndText {
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.hero__title {
+  font-size: 4vh;
+  margin: 20 auto; /* Center the title */;
+}
+
+.hero__subtitle {
+  font-size: 3vh;
+  margin: 15 auto; /* Center the subtitle */
+}
+
+/* For medium screens (768px and below) */
+@media screen and (max-width: 768px) {
+  .heroBanner {
+    flex-direction: column;
+    justify-content: left;
+    height: auto;
+    background-color: #f0f0f0; /* Fake background color or pattern */
+  }
+
+  /* Ensure the text container takes the full width */
+  .heroContainer {
+    width: 100%; /* Full width for the text */
+    padding: 1rem;
+  }
+}
+
+/* For small screens (576px and below) */
+@media screen and (max-width: 576px) {
+  .heroContainer {
+    width: 100%; /* Full width for text */
+    padding: 1rem;
+    font-size: 1.2rem;
+  }
+}

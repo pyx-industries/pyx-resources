@@ -1,0 +1,30 @@
+services:
+  node:
+    image: node:18
+    ports:
+      - "3000:3000"                   # Expose Docusaurus dev server
+    volumes:
+      - .:/app                        # Mount the entire project
+      - ./src/scss:/app/src/scss      # Sync SCSS files
+    working_dir: /app                 # Set working directory to project root
+    networks:
+      - app-network
+    build:
+      context: .                      # Build context for custom Dockerfile
+      dockerfile: Dockerfile.node     # Use a custom Dockerfile for Node.js
+    command: sh -c "npm install && npm run start" # Install dependencies and start dev server
+
+  web:
+    image: php:apache
+    ports:
+      - "8080:80"                     # Map Apache to localhost:8080
+    volumes:
+      - ./build:/var/www/html         # Serve Docusaurus static files
+      - ./config/apache:/etc/apache2/sites-enabled
+    networks:
+      - app-network
+    working_dir: /var/www/html        # Working directory for Apache
+    command: apachectl -D FOREGROUND  # Start Apache in foreground
+
+networks:
+  app-network:

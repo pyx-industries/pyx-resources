@@ -1,0 +1,22 @@
+# Set default behavior to automatically normalize
+* text=auto
+
+# Explicitly declare text files we want normalized and converted to LF
+*.js text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+
+# Binary files (no normalization)
+*.png binary
+*.jpg binary
+*.gif binary
+*.woff binary
+*.woff2 binary
+* text=auto
+*.js text
+*.css text
+*.html text
+*.md text
+*.json text
+.gitattributes text eol=lf

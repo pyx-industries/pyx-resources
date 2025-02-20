@@ -49,3 +49,4 @@ jobs:
           echo "🚀 Running Build..."
           npm run build
           EOF
+          

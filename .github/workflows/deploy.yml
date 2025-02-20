@@ -36,10 +36,16 @@ jobs:
           git reset --hard origin/kb
           git clean -fd
 
+          echo "🛠 Setting up Node.js and NPM..."
+          export NVM_DIR="$HOME/.nvm"
+          [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # Load NVM
+          [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # Load NVM bash completion
+
           echo "🛠 Installing dependencies..."
           nice -n 19 npm install --prefer-offline --no-audit --no-fund --verbose
 
           export NODE_OPTIONS="--max_old_space_size=2048"
 
+          echo "🚀 Running Build..."
           npm run build
           EOF

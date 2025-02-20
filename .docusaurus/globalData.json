@@ -49,5 +49,14 @@
       ],
       "breadcrumbs": true
     }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-755PEE1175"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
+    }
   }
 }

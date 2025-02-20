@@ -29,7 +29,7 @@ jobs:
           set -e  # Exit on any error
           
           echo "🔄 Switching to KB directory..."
-          cd /var/www/html/docs || exit
+          cd /var/www/html/kb || exit
 
           echo "🔄 Fetching latest changes..."
           git fetch origin kb
@@ -37,4 +37,9 @@ jobs:
           git clean -fd
 
           echo "🛠 Installing dependencies..."
-          npm ci  # Ensures clean install
+          nice -n 19 npm install --prefer-offline --no-audit --no-fund --verbose
+
+          export NODE_OPTIONS="--max_old_space_size=2048"
+
+          npm run build
+          EOF

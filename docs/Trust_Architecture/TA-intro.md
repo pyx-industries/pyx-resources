@@ -3,8 +3,7 @@ sidebar_position: 1
 ---
 
 # Trust Architecture Introduction
-
-:::info Contribute to the Knowledge Base
+:::info In Development
 Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated.  
 For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.
 

@@ -235,11 +235,7 @@ Use the [UNTP DPP Schema](https://jargon.sh/user/unece/DigitalProductPassport/v/
 - Visualize the hierarchy, beginning with the DigitalProductPassport object and its nested objects.
 - See below example: representing a high-level DPP for Copper Cathodes.
 
-<img
-  src="assets/Liquified Copper DPP Structure.png"
-  alt="CopperMark Data Structure Plan"
-  style={{ width: '600px' }} 
-/>
+![Copper DPP Structure](/img/copperdppstructure.png)
 
 ### Step 5: Translate Your DPP into JSON
 

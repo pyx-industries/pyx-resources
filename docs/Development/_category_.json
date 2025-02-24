@@ -2,6 +2,7 @@
   "label": "Developers",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Knowledge Base for Developers working on Trust Architecture Solutions"
   }
 }

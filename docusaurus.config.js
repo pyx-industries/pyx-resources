@@ -79,8 +79,8 @@ const config = {
             label: 'Tech Docs',
           },
           {
-            href: 'https://pulse.pyx.io/',  // New external URL link
-            label: 'Blog',        // Label for the new link
+            href: 'https://chat.pyx.io/',  // New external URL link
+            label: 'Chat',        // Label for the new link
             position: 'right',             // Position it on the right
           },
           {
@@ -88,7 +88,11 @@ const config = {
             label: 'Forums',        // Label for the new link
             position: 'right',             // Position it on the right
           },
-
+          {
+            href: 'https://pulse.pyx.io/',  // New external URL link
+            label: 'Blog',        // Label for the new link
+            position: 'right',             // Position it on the right
+          },
           {
             href: 'https://github.com/uncefact/spec-untp',
             label: 'GitHub',
@@ -120,6 +124,10 @@ const config = {
           {
             title: 'Community',
             items: [
+              {
+                label: 'Chat',
+                href: 'https://chat.pyx.io/',
+              },
               {
                 label: 'Forums',
                 href: 'https://forum.pyx.io/',

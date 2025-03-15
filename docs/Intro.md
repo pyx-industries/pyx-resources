@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Welcome to the Pyx Knowledge Base
+
 :::info In Development
 Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated.  
 For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.
@@ -11,41 +13,45 @@ Click **"Edit This Page"** at the bottom of any article to suggest edits via Git
 Once reviewed, your changes will be published.
 :::
 
-# Welcome to the Pyx Community
+**The Pyx Knowledge Base aims to answer the question of "HOW" to architect Ecosystems so that trustworthy businesses gain advantages in the marketplace.**
 
-The Knowledge Base is our answer to "how" to implement Trust Architecture solutions.  Here we will provide instructions for Developers and Industry Professionals on how to introduce efficient, scaleable and interoperate solutions to the Supply Chain.  Currently UNTP (United National Transparency Protocol) provides the best protocol for achieving this and much of our content is focused on that approach.
+### Trust Architecture Fundamentals
 
-## Understanding Trust Architecture and UNTP {#understanding-trust-architecture}
+- **Interoperable** – Transparency thrives in open ecosystems, not proprietary silos.
+- **Scalable** – A trust-based system must grow with the businesses it serves.
+- **Open Tools, Private Data** – Businesses own their tools and data, with open-source systems ensuring transparency, control, and security.
+- **Verifiable** – Trust isn’t claimed; it’s earned. Certifiers validate credentials, ensuring proof over promises.
 
-Trust Architecture is our framework for aligning industry supply chains with UNTP standards. Pyx approach goes beyond UNTP compliance, ensuring data sovereignty. Our models facilitate faster, more efficient data sharing while protecting proprietary information.
+# Pyx Community Explained
 
-Trust Architects are multidisciplinary professionals combining project management, process engineering, and software development skills. For some people, like us here at Pyx, Trust Architecture is all we do. More broadly, people in various roles across organizations and industry ecosystems will emerge as Trust Architects, whether they adopt this title or not. Scalability and sustainability benefit every person in our economy.
+The Pyx Community is built on a diverse set of open-source tools and collaborative platforms designed to support professionals on the Trust Architecture journey.
 
-UNTP, developed by the United Nations Economic Commission for Europe (UNECE), sets the standard for digital communication across diverse supply chains. Think of it as the IEEE of supply chain management - enabling seamless interaction across different systems and platforms while prioritizing transparency and efficiency.
+## Collaboration Tools
 
-## Our Community Resources {#community-resources}
+### [Pyx Chat](https://chat.pyx.io) – Real-Time Collaboration & AI Support
 
-### Knowledge Base {#knowledge-base}
+Powered by **Zulip** (open-source, self-hosted), [Pyx Chat](https://chat.pyx.io) is the fast-paced hub for **collaborating with the community, exchanging insights, and getting real-time support**
 
-Your digital library for Trust Architecture:
+### [Pyx Forums](https://forum.pyx.io) – Open Discussions & Networking
 
-- Comprehensive UNTP implementation guides
-- Trust Architecture roadmaps
+The [**Pyx Forums**](https://forum.pyx.io) serve as a **public hub** for discussions on **Trust Architecture, industry trends, and professional networking**. Whether you're a **Trust Architect, developer, or business leader**, this is the place to connect and collaborate.
 
-### Pyx Collaboration Tools {#pyx-collaboration}
+## Resources
 
-:::tip Our virtual meeting spaces:
+### Pyx Knowledge Base – Documentation & Technical Guides
 
-[Pyx Chat](https://chat.pyx.io/) - Powered by Zulip, Pyx Chat is a Slack like tool that offers better security and is open source.  Join us here for real time interactions with the community
+A **curated repository** of **guides, best practices, and technical documentation** for Trust Architecture and UNTP. Perfect for **deep dives and reference material**.
 
-[Pyx Forums](https://forum.pyx.io/) - A public open forum for engaging discussion.  Have ideas you want to share with the world?  This is the place.
-:::
+### [Pyx Pulse Newsletter](https://pulse.pyx.io/pulsesignup.html) – Monthly Industry Insights
 
-Both spaces are great for:
-- Collaborative problem-solving
-- Feedback on Pyx tools and documentation
-- Networking with like-minded professionals
+Our [**monthly publication**](https://pulse.pyx.io/pulsesignup.html) highlights the **latest advancements in Trust Architecture** and showcases industries **actively adopting transparency-driven solutions**.
 
-## Welcome to Our Digital Home {#welcome-digital-home}
+### [Pyx Pulse Blog](https://pulse.pyx.io/index.html) – Expanding the Conversation
 
-Thank you for exploring our UNTP solution. Leveraging our community's collective expertise and our robust data engineering capabilities, we offer comprehensive resources for UNTP implementation while prioritizing data sovereignty. Join us in shaping a more transparent, sustainable future for global trade.
+Like our newsletter—but with **deeper insights**. The [**Pyx Pulse Blog**](https://pulse.pyx.io/index.html) features **expanded content, expert contributions, and real-world case studies** from industry leaders shaping Trust Architecture.
+
+### Welcome to Our Digital Home
+
+The Pyx Knowledge Base is just the beginning. **Trust Architecture is a shared effort**, and we believe the best solutions come from open collaboration.
+
+Whether you're here to **learn, share, or refine ideas**, we invite you to [**engage in our chat**](https://chat.pyx.io), contribute to [**discussions in our forum**](https://forum.pyx.io), and help expand this resource. Together, we’re building a more **transparent, verifiable, and scalable future**—one contribution at a time.

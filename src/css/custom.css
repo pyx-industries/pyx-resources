@@ -10,7 +10,7 @@
   --ifm-color-primary: #000000;
   --ifm-color-primary-dark: #d2bb2d;
   --ifm-color-primary-darker: #5a5a5a;
-  --ifm-color-primary-darkest: #000000;
+  --ifm-color-primary-darkest: #091433;
   --ifm-color-primary-light: #d2bb2d;
   --ifm-color-primary-lighter: #efd765;
   --ifm-color-primary-lightest: #e6e6e6;
@@ -23,12 +23,23 @@
 [data-theme='dark'] {
   --ifm-color-primary: #ffffff;
   --ifm-color-primary-dark: #d2bb2d;
-  --ifm-color-primary-darker: #000000;
+  --ifm-color-primary-darker: #091433;
   --ifm-color-primary-darkest: #000000;
   --ifm-color-primary-light: #d2bb2d;
   --ifm-color-primary-lighter: #efd765;
   --ifm-color-primary-lightest: #e6e6e6;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Ensure hyperlinks are visibly distinct */
+a {
+  color: #21286E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0056b3; /* Darker blue for hover */
+  text-decoration: underline; /* Adds underline on hover */
 }
 
 /* Global styling of light and dark themes

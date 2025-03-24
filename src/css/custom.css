@@ -111,6 +111,15 @@ h1, h2, h3, h4, h5, h6, p, a, .navbar__link {
   font-family: 'Roboto', sans-serif;
 }
 
+/* Set the footer columns to vertically justify to top */
+.footer__col {
+  align-self: flex-start !important;
+}
+
+.footer__links {
+  align-items: flex-start !important;
+}
+
 /* Change the footer background color */
 footer.footer {
   background-color: #000000; /* Set the footer background to #5a5a5a */
@@ -158,7 +167,7 @@ footer.footer a:hover {
   background-repeat: no-repeat;
   width: 150px; /* Adjust width */
   height: 60px; /* Adjust height */
-  margin-right: 40px; /* Adjust space between the logo and the first column */
+  margin-right: 300px; /* Adjust space between the logo and the first column */
 }
 
 /* Optional: Add more space between the columns themselves */

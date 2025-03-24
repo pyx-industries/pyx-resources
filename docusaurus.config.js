@@ -109,15 +109,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Pyx Global',
             items: [
               {
-                label: 'Tech Docs',
-                to: '/docs/Intro',
+                label: 'Pyx Team',
+                href: 'https://www.pyx.io/about-us',
               },
               {
-                label: 'Blog',
-                href: 'https://pulse.pyx.io/',
+                label: 'Site Feedback',
+                href: 'https://pulse.pyx.io/sitefeedback.html',
+              },
+            ],
+          },
+          {
+            title: 'Solutions',
+            items: [
+              {
+                label: 'Business',
+                href: 'https://www.pyx.io/how-we-help',
+              },
+              {
+                label: 'Industry Associations',
+                href: 'https://www.pyx.io/how-we-help',
+              },
+              {
+                label: 'Regulators',
+                href: 'https://www.pyx.io/how-we-help',
+              },
+              {
+                label: 'Tech Docs',
+                to: '/docs/intro',
               },
             ],
           },
@@ -125,20 +146,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Chat',
-                href: 'https://chat.pyx.io/',
+                label: 'Pyx Pulse Blog',
+                href: 'https://pulse.pyx.io/',
               },
               {
-                label: 'Forums',
+                label: 'Pyx Forums',
                 href: 'https://forum.pyx.io/',
               },
               {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/pyxglobal/',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/uncefact/spec-untp',
+                label: 'Pyx Zulip Chat',
+                href: 'https://chat.pyx.io/',
               },
             ],
           },

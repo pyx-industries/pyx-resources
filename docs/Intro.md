@@ -13,7 +13,7 @@ Click **"Edit This Page"** at the bottom of any article to suggest edits via Git
 Once reviewed, your changes will be published.
 :::
 
-**The Pyx Knowledge Base aims to answer the question of "HOW" to architect Ecosystems so that trustworthy businesses gain advantages in the marketplace.**
+**The Pyx Knowledge Base aims to answer the question of "HOW" to architect ecosystems so that trustworthy businesses gain advantages in the marketplace.**
 
 ### Trust Architecture Fundamentals
 

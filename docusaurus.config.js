@@ -126,15 +126,15 @@ const config = {
             items: [
               {
                 label: 'Business',
-                href: 'https://www.pyx.io/how-we-help',
+                href: 'https://www.pyx.io/howwehelp.html#business-text',
               },
               {
                 label: 'Industry Associations',
-                href: 'https://www.pyx.io/how-we-help',
+                href: 'https://www.pyx.io/howwehelp.html#associations-text',
               },
               {
                 label: 'Regulators',
-                href: 'https://www.pyx.io/how-we-help',
+                href: 'https://www.pyx.io/howwehelp.html#regulator-text',
               },
               {
                 label: 'Tech Docs',

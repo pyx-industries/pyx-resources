@@ -138,7 +138,7 @@ const config = {
               },
               {
                 label: 'Tech Docs',
-                to: '/docs/intro',
+                to: '/docs/Intro',
               },
             ],
           },

@@ -39,16 +39,16 @@ const FeatureList = [
   },
   {
     title: (
-      <a href="https://forum.pyx.io/" target="_blank" rel="noopener noreferrer" className={styles.featureLink}>
+      <a href="https://chat.pyx.io/" target="_blank" rel="noopener noreferrer" className={styles.featureLink}>
         <div className={styles.iconAndText}>
-          <IconForums className={styles.icon} alt="Forums Icon" />
-          <span>Forums</span>
+          <IconForums className={styles.icon} alt="Chat Icon" />
+          <span>Chat</span>
         </div>
       </a>
     ),
     description: (
       <p className={styles.description}>
-        Pyx forums are here for community support of your open-source implementation of UNTP.
+        Pyx Chat provides community-driven support for your open-source UNTP implementation.
       </p>
     ),
   },

@@ -65,6 +65,15 @@ const config = {
         { name: 'keywords', content: 'UNTP, UNCEFACT, UN/CEFACT, Trust Architect, Interoperability, Sustainability, Verifiable Credentials,  Decentralized Identifiers, Sustainable Development Goals, Critical Raw Materials, ESG, SDG, Environment Social Governance, Sustainability, Supply Chain, VC, DID' }, // Keywords for SEO
         { name: 'description', content: 'PYX Knowledge Base for technical documents and articles on UNTP and Trust Architecture' }, // Description for SEO
       ],
+      announcementBar: {
+        id: 'idr-announcement', // A unique ID for this announcement
+        content:
+          '📢 Check out the updated instructions for our IDR Service at <a href="https://pyx-industries.github.io/pyx-identity-resolver/" target="_blank">pyx-identity-resolver</a>.',
+        backgroundColor: '#EFD765',
+        textColor: '#000000',
+        isCloseable: true,
+      },
+      
       navbar: {
         title: 'PYX Knowledge Base',
         logo: {

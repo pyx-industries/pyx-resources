@@ -24,7 +24,7 @@ This command reads the `package.json` file and installs all required packages in
 To start a local development server and preview the website, use the following command:
 
 ```bash
-npm start
+npm run start
 ```
 
 This will start a local web server, and your browser should automatically open to the development version of the website (usually at `http://localhost:3000`). Most changes you make to the source files will be reflected live without needing to restart the server.

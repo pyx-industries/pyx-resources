@@ -2,14 +2,11 @@
 sidebar_position: 2
 ---
 
-# Stage 2 - UNTP Data Mapping
+# UNTP Credential Mapping
 :::info In Development
-Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated.  
-For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.
+**Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
 
-We welcome community contributions!
-Click **"Edit This Page"** at the bottom of any article to suggest edits via GitHub.  
-Once reviewed, your changes will be published.
+Need help? Join our [💬 UNTP community chat](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) for live support.
 :::
 
 # Understanding UNTP Schemas and JSON
@@ -312,5 +309,15 @@ You can create the DCC using one of the [methods](#step-5-translate-your-dpp-int
 A Digital Facility Record largely follows the same principles a Digital Product Passport, where you are making a set of claim about a Facility.
 
 When you are creating your first DFR, it is recommended that you follow the same pathway identified in the above "Modeling your first DPP"
+
+---
+
+## Need Interactive Support?
+
+:::info Get Live Help
+🚀 **Join our community chat** for real-time assistance with UNTP implementation questions!
+
+[**💬 Chat with UNTP Experts**](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) - Get instant help from our community of developers and trust architects.
+:::
 
 ---

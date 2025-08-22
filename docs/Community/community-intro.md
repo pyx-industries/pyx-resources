@@ -5,12 +5,9 @@ sidebar_position: 1
 # Community Building Introduction
 
 :::info In Development
-Our Knowledge Base is evolving, and instructions will be regularly updated.  
-For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.
+**Our Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
 
-We welcome community contributions!
-Click **"Edit This Page"** at the bottom of any article to suggest edits via GitHub.  
-Once reviewed, your changes will be published.
+Need help? Join our [💬 UNTP community chat](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) for live support.
 :::
 
 **In the Community Building Section of our Knowledge Base we will explain:**
@@ -37,3 +34,15 @@ Whether you're engaging in deep discussions, seeking long-term collaboration, or
 ## How to Engage an Industry
 
 🚀 **In Progress:** We're actively developing this section to provide insights on effectively engaging with industry leaders, stakeholders, and communities. Stay tuned for updates as we refine strategies and best practices to help you make a meaningful impact!
+
+---
+
+## Need Interactive Support?
+
+:::info Get Live Help
+🚀 **Join our community chat** for real-time assistance with UNTP implementation questions!
+
+[**💬 Chat with UNTP Experts**](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) - Get instant help from our community of developers and trust architects.
+:::
+
+---

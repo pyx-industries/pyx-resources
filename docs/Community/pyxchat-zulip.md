@@ -4,6 +4,12 @@ sidebar_position: 2
 
 # Pyx Chat Powered by Zulip
 
+:::info
+**Zulip is our real-time messaging platform built for focused, async-friendly conversations. Learn how to get the most out of our community chat.**
+
+Need help? Join our [💬 UNTP community chat](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) for live support.
+:::
+
 Zulip is our real-time messaging platform built for focused, async-friendly conversations. If you've used Slack or Microsoft Teams, you'll find Zulip familiar—but its **threaded model** offers powerful advantages for keeping discussions organized, especially in our distributed and global community.
 
 ## 🛠 What You'll Use Zulip For
@@ -131,3 +137,15 @@ If you're unsure where to post or need assistance:
 - Or email site@pyx.io for direct assistance
 
 We're here to help you get the most out of the Pyx collaboration space.
+
+---
+
+## Need Interactive Support?
+
+:::info Get Live Help
+🚀 **Join our community chat** for real-time assistance with UNTP implementation questions!
+
+[**💬 Chat with UNTP Experts**](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) - Get instant help from our community of developers and trust architects.
+:::
+
+---

@@ -68,7 +68,7 @@ const config = {
       announcementBar: {
         id: 'idr-announcement', // A unique ID for this announcement
         content:
-          '📢 Check out the updated instructions for our IDR Service at <a href="https://pyx-industries.github.io/pyx-identity-resolver/" target="_blank">pyx-identity-resolver</a>.',
+          '📢 Check out how to Launch your own UNTP Reference Implementation at<a href="/docs/Development/launch-ri" target="_blank"> launch-reference-implementation</a>.',
         backgroundColor: '#EFD765',
         textColor: '#000000',
         isCloseable: true,

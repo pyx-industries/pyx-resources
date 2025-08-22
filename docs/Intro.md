@@ -4,13 +4,14 @@ sidebar_position: 1
 
 # Pyx Knowledge Base
 
-:::info In Development
-Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated.  
-For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.
+Whether you're here to **learn, share, or refine ideas**, we invite you to [**engage in our chat**](https://chat.pyx.io), contribute to [**discussions in our forum**](https://forum.pyx.io), and help expand this resource. Together, we're building a more **transparent, verifiable, and scalable future**—one contribution at a time.
 
-We welcome community contributions!
-Click **"Edit This Page"** at the bottom of any article to suggest edits via GitHub.  
-Once reviewed, your changes will be published.
+---
+
+:::info In Development
+**Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
+
+Need help? Join our [💬 UNTP community chat](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) for live support.
 :::
 
 **The Pyx Knowledge Base aims to answer the question of "HOW" to architect ecosystems so that trustworthy businesses gain advantages in the marketplace.**
@@ -55,3 +56,15 @@ Like our newsletter—but with **deeper insights**. The [**Pyx Pulse Blog**](htt
 The Pyx Knowledge Base is just the beginning. **Trust Architecture is a shared effort**, and we believe the best solutions come from open collaboration.
 
 Whether you're here to **learn, share, or refine ideas**, we invite you to [**engage in our chat**](https://chat.pyx.io), contribute to [**discussions in our forum**](https://forum.pyx.io), and help expand this resource. Together, we’re building a more **transparent, verifiable, and scalable future**—one contribution at a time.
+
+---
+
+## Need Interactive Support?
+
+:::info Get Live Help
+🚀 **Join our community chat** for real-time assistance with UNTP implementation questions!
+
+[**💬 Chat with UNTP Experts**](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) - Get instant help from our community of developers and trust architects.
+:::
+
+---

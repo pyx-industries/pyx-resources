@@ -23,13 +23,27 @@ const config = {
   projectName: 'pyxdocu', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+      },
+    ],
+  ],
 
   plugins: [
     [
@@ -50,6 +64,7 @@ const config = {
           sidebarPath: './sidebars.js',
           editUrl: 'https://github.com/pyx-industries/pyx-resources/edit/kb/',
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },

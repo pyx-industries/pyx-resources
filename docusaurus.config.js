@@ -23,13 +23,8 @@ const config = {
   projectName: 'pyxdocu', // Usually your repo name.
 
   onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn', // TODO: migrate to markdown.hooks.onBrokenMarkdownLinks when upgrading to Docusaurus 3.9+
   onBrokenAnchors: 'warn',
-
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: 'warn',
-    },
-  },
 
   i18n: {
     defaultLocale: 'en',

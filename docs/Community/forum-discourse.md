@@ -75,8 +75,7 @@ separate forum username or password to create.
    account).
 4. You'll be returned to the Pyx Forum, signed in. 🎉
 
-<!-- SCREENSHOT (pending RECAPTURE): the Pyx sign-in (Zitadel) screen you land on right after clicking Log In. The captured 260616forum02.png shows real member emails (the account-picker view), so it's held back — recapture the logged-out Pyx sign-in form without personal emails visible. -->
-<!-- ![The Pyx sign-in screen — sign in with your Pyx account](img/260616forum02.png) -->
+![The Pyx sign-in screen — sign in with your Pyx account](img/260616forum02.png)
 
 :::tip Already have a Pyx Forum account?
 Sign in **using the same email address** your forum account already uses — your

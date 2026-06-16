@@ -2,38 +2,82 @@
 sidebar_position: 1
 ---
 
-# Community Building Introduction
+# Pyx Community Introduction
 
 :::info In Development
-**Our Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
+**Our Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Pyx Forum](https://forum.community.pyx.io/) or [Pyx Chat](https://chat.pyx.io/) to collaborate with experts.**
 
 Need help? Join our [💬 UNTP community chat](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) for live support.
 :::
 
-**In the Community Building Section of our Knowledge Base we will explain:**
+Welcome to the **Pyx community** — the people, conversations, and tools around
+Trust Architecture and the UN Transparency Protocol (UNTP). Everything in the
+community is tied together by a **single Pyx account**: one sign-in works across
+your Dashboard, the Forum, and Chat.
 
-- The Pyx Community Infrastructure and the Tools We Love
-- How to build your own industry engagement plan
+## 🚪 Start here: the Pyx Dashboard
 
-## Collaboration Tools We Love
+The best place to begin is the **[Pyx Dashboard](./pyx-dashboard.md)** at
+**[community.pyx.io](https://community.pyx.io)** — your personalized front door
+to the community. It pulls together what's happening across the blog, forum,
+chat, and a curated set of trusted news sources into one feed, lets you organize
+what you follow into **Spaces**, and links you straight into the right tool when
+you want to join in.
 
-Pyx embraces Open Source solutions because they empower users to OWN the tools they use.  We believe in open tools and private data.  As such, the tools we openly endorse on this page fit our core standards of being open source and also high-quality for end users.
+Sign in once with your Pyx account and you're set everywhere.
+→ **[Read the Dashboard guide](./pyx-dashboard.md)**
 
-### [Pyx Chat](https://chat.pyx.io/) - Powered by Zulip
+## 🧰 The community tools
 
-Zulip is a collaborative chat app much like Slack, but is open source and can be self-hosted.  The Pyx team loves hanging out in our chat area and we're readily available to help businesses, member associations, developers and everyone curious to learn how Trust Architecture creates a model where **trustworthy** businesses **gain advantages for the sustainable work they are already doing**.
+Pyx embraces open-source solutions because they empower users to **own the tools
+they use** — we believe in **open tools and private data**. The platforms we run
+for the community are open source, self-hostable, and high-quality for end
+users.
 
-You can connect with Pyx and others directly in Zulip at any time.  [**Pyx Chat**](https://chat.pyx.io) is 100% open to the public with registration by email, Google or GitHub.
+| Tool | What it's for | Where |
+| --- | --- | --- |
+| **[Dashboard](./pyx-dashboard.md)** | Your personalized home — one feed across everything, plus Spaces | [community.pyx.io](https://community.pyx.io) |
+| **[Chat](https://chat.pyx.io)** (Zulip) | Fast, threaded real-time conversation and live help | [chat.pyx.io](https://chat.pyx.io) |
+| **[Forum](https://forum.community.pyx.io)** (Discourse) | Long-form discussion, Q&A, and Initiative collaboration | [forum.community.pyx.io](https://forum.community.pyx.io) |
+| **[Blog](https://pulse.pyx.io)** (Pyx Pulse) | News, articles, and case studies from Pyx | [pulse.pyx.io](https://pulse.pyx.io) |
+| **[Knowledge Base](../Intro.md)** | Guides, best practices, and technical documentation for Trust Architecture | [kb.pyx.io](https://kb.pyx.io) |
 
-### [Pyx Forums](https://forum.pyx.io/) - Powered by phpBB
+### 💬 Pyx Chat — powered by Zulip
 
-phpBB is a robust and time-tested open-source forum platform that has fostered online discussions for decades. Our forums provide a structured space for meaningful conversations, allowing you to explore and expand on big ideas without the risk of them getting lost in the rapid flow of Zulip chat. 
+Zulip is a collaborative chat app much like Slack, but open source and
+self-hosted. The Pyx team loves hanging out in our chat area, and we're readily
+available to help businesses, member associations, developers, and everyone
+curious to learn how Trust Architecture creates a model where **trustworthy**
+businesses **gain advantages for the sustainable work they are already doing**.
 
-Whether you're engaging in deep discussions, seeking long-term collaboration, or archiving valuable insights, the Pyx Forums serve as a dedicated hub for thoughtful and impactful exchanges.
+[**Pyx Chat**](https://chat.pyx.io) is 100% open to the public, with
+registration by email, Google, or GitHub. New to Zulip? See our
+[Pyx Chat guide](./pyxchat-zulip.md).
 
-## How to Engage an Industry
+### 🗣️ Pyx Forum — powered by Discourse
 
-🚀 **In Progress:** We're actively developing this section to provide insights on effectively engaging with industry leaders, stakeholders, and communities. Stay tuned for updates as we refine strategies and best practices to help you make a meaningful impact!
+Discourse is a modern, open-source forum platform built for civilized, long-form
+community discussion. The Forum provides a structured space for meaningful
+conversations — room to explore and expand on big ideas without the risk of them
+getting lost in the rapid flow of chat. It's also where the Dashboard's
+**Initiatives** live: each Initiative maps to a forum category, and its
+discussions and events flow back into your feed.
+
+Whether you're engaging in deep discussions, seeking long-term collaboration, or
+archiving valuable insights, the Pyx Forum is a dedicated hub for thoughtful and
+impactful exchanges. New to the Forum? See our [Pyx Forum guide](./forum-discourse.md).
+
+### 📰 Pyx Pulse — the community blog
+
+[**Pyx Pulse**](https://pulse.pyx.io) is where Pyx publishes news, articles, and
+real-world case studies on Trust Architecture and UNTP. New posts flow into your
+Dashboard feed automatically.
+
+## How to engage an industry
+
+🚀 **In progress:** We're developing guidance on effectively engaging industry
+leaders, stakeholders, and communities — strategies and best practices for
+making a meaningful impact. Stay tuned; we'll add it here as it's ready.
 
 ---
 

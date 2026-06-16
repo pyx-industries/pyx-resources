@@ -47,8 +47,7 @@ One account, one login, everywhere.
    (or continue with Google/GitHub if that's how you set up your Pyx account).
 4. You'll be returned to Pyx Chat, signed in. 🎉
 
-<!-- TODO: replace 250323zulip01.png with a fresh chat.pyx.io screenshot that shows the "Pyx Community SSO" button (a new SSO capture is pending from Dan) -->
-![Pyx Chat sign-in screen — choose "Pyx Community SSO"](img/250323zulip01.png)
+![Pyx Chat sign-in screen — choose "Pyx Community SSO"](img/260616zulip01.png)
 
 :::info Which button do I click?
 The sign-in screen currently shows a few login options. Please use

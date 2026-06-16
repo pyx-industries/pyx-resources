@@ -3,7 +3,7 @@ name: Deploy KB to Apache Server
 on:
   push:
     branches:
-      - kb
+      - main
 
 jobs:
   deploy:
@@ -32,8 +32,8 @@ jobs:
           cd /var/www/html/kb || exit
 
           echo "🔄 Fetching latest changes..."
-          git fetch origin kb
-          git reset --hard origin/kb
+          git fetch origin main
+          git reset --hard origin/main
           git clean -fd
 
           echo "🛠 Setting up Node.js and NPM..."

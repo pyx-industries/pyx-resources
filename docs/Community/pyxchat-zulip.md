@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Pyx Chat Powered by Zulip
@@ -25,7 +25,7 @@ In the Pyx space, Zulip is where we:
 
 | Action | What to Remember |
 | --- | --- |
-| Sign in | [Pyx chat](https://chat.pyx.io) with Email, Google or GitHub |
+| Sign in | [Pyx chat](https://chat.pyx.io) with your **Pyx account** (Pyx Community SSO) |
 | Channels | Broad conversation areas (like Slack channels) |
 | Topics | Focused threads inside each channel |
 | Replying | Always reply in-topic to keep conversations clear |
@@ -35,13 +35,47 @@ In the Pyx space, Zulip is where we:
 
 ## 📖 Detailed Instructions
 
-## 🔑 Step 1: Register or Login to Zulip
+## 🔑 Step 1: Sign in with your Pyx account
 
-1. Visit: [**chat.pyx.io**](https://chat.pyx.io)
-2. Log in using your **Email**, **Google** or **GitHub** credentials.
-    1. If you haven't registered, click "Sign Up" in the lower right hand corner of the sign in box.  
+Pyx Chat uses **Pyx Community single sign-on (SSO)** — the same Pyx account you
+use for the [Pyx Community Dashboard](https://community.pyx.io) and the forum.
+One account, one login, everywhere.
 
-![Zulip interface screenshot](img/250323zulip01.png)
+1. Visit [**chat.pyx.io**](https://chat.pyx.io)
+2. Click **Sign in with Pyx Community SSO**.
+3. On the Pyx sign-in screen, enter your **Pyx account** email and password
+   (or continue with Google/GitHub if that's how you set up your Pyx account).
+4. You'll be returned to Pyx Chat, signed in. 🎉
+
+<!-- TODO: replace 250323zulip01.png with a fresh chat.pyx.io screenshot that shows the "Pyx Community SSO" button (a new SSO capture is pending from Dan) -->
+![Pyx Chat sign-in screen — choose "Pyx Community SSO"](img/250323zulip01.png)
+
+:::info Which button do I click?
+The sign-in screen currently shows a few login options. Please use
+**Sign in with Pyx Community SSO** — that's the one tied to your Pyx account and
+the one we're standardizing on across Pyx.
+:::
+
+:::tip Already have a Pyx Chat account?
+Sign in with Pyx Community SSO **using the same email address** your chat account
+already uses — your existing chat history, channels, and direct messages come
+with you automatically. (A *different* email creates a separate, empty account —
+see the note below.) ✅
+:::
+
+:::info New to Pyx?
+No Pyx account yet? Create one via the
+[Pyx Community Dashboard](https://community.pyx.io), then sign in here with
+**Pyx Community SSO**. Your Pyx Chat account is created automatically the first
+time you sign in — there's no separate chat sign-up.
+:::
+
+:::info Use the same email
+Pyx Chat recognizes you by your **email address**. If you sign in with a Pyx
+account whose email differs from your original chat account, you'll land in a
+new, empty chat account. If that happens, email **site@pyx.io** and we'll
+reconnect you to your history.
+:::
 
 ---
 
@@ -123,7 +157,7 @@ Zulip is also available on iOS and Android:
 
 - Download the **Zulip app** from the App Store or Google Play
 - Use the server URL: **`https://chat.pyx.io`**
-- Sign in using the same Email, Google or GitHub credentials
+- Sign in with your **Pyx account** — the same Pyx Community SSO login you use on the web
 
 Mobile notifications are customizable to keep you in the loop without being overwhelmed.
 

@@ -4,12 +4,12 @@ sidebar_position: 1
 
 # Pyx Knowledge Base
 
-Whether you're here to **learn, share, or refine ideas**, we invite you to [**engage in our chat**](https://chat.pyx.io), contribute to [**discussions in our forum**](https://forum.pyx.io), and help expand this resource. Together, we're building a more **transparent, verifiable, and scalable future**—one contribution at a time.
+Whether you're here to **learn, share, or refine ideas**, we invite you to [**engage in our chat**](https://chat.pyx.io), contribute to [**discussions in our forum**](https://forum.community.pyx.io), and help expand this resource. Together, we're building a more **transparent, verifiable, and scalable future**—one contribution at a time.
 
 ---
 
 :::info In Development
-**Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
+**Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.community.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
 
 Need help? Join our [💬 UNTP community chat](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) for live support.
 :::
@@ -33,9 +33,9 @@ The Pyx Community is built on a diverse set of open-source tools and collaborati
 
 Powered by **Zulip** (open-source, self-hosted), [Pyx Chat](https://chat.pyx.io) is the fast-paced hub for **collaborating with the community, exchanging insights, and getting real-time support**
 
-### [Pyx Forums](https://forum.pyx.io) – Open Discussions & Networking
+### [Pyx Forums](https://forum.community.pyx.io) – Open Discussions & Networking
 
-The [**Pyx Forums**](https://forum.pyx.io) serve as a **public hub** for discussions on **Trust Architecture, industry trends, and professional networking**. Whether you're a **Trust Architect, developer, or business leader**, this is the place to connect and collaborate.
+The [**Pyx Forums**](https://forum.community.pyx.io) serve as a **public hub** for discussions on **Trust Architecture, industry trends, and professional networking**. Whether you're a **Trust Architect, developer, or business leader**, this is the place to connect and collaborate.
 
 ## Resources
 
@@ -55,7 +55,7 @@ Like our newsletter—but with **deeper insights**. The [**Pyx Pulse Blog**](htt
 
 The Pyx Knowledge Base is just the beginning. **Trust Architecture is a shared effort**, and we believe the best solutions come from open collaboration.
 
-Whether you're here to **learn, share, or refine ideas**, we invite you to [**engage in our chat**](https://chat.pyx.io), contribute to [**discussions in our forum**](https://forum.pyx.io), and help expand this resource. Together, we’re building a more **transparent, verifiable, and scalable future**—one contribution at a time.
+Whether you're here to **learn, share, or refine ideas**, we invite you to [**engage in our chat**](https://chat.pyx.io), contribute to [**discussions in our forum**](https://forum.community.pyx.io), and help expand this resource. Together, we’re building a more **transparent, verifiable, and scalable future**—one contribution at a time.
 
 ---
 

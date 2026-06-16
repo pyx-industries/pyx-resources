@@ -103,8 +103,8 @@ const config = {
             position: 'right',             // Position it on the right
           },
           {
-            href: 'https://forum.pyx.io/',  // New external URL link
-            label: 'Forums',        // Label for the new link
+            href: 'https://forum.community.pyx.io/',  // New external URL link
+            label: 'Forum',        // Label for the new link
             position: 'right',             // Position it on the right
           },
           {
@@ -169,8 +169,8 @@ const config = {
                 href: 'https://pulse.pyx.io/',
               },
               {
-                label: 'Pyx Forums',
-                href: 'https://forum.pyx.io/',
+                label: 'Pyx Forum',
+                href: 'https://forum.community.pyx.io/',
               },
               {
                 label: 'Pyx Zulip Chat',

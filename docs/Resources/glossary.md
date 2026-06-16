@@ -85,5 +85,5 @@ A digital credential that can be cryptographically verified to ensure authentici
 ---
 
 :::info Contributing
-Have a term that should be included? Join our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to suggest additions.
+Have a term that should be included? Join our [Community Forums](https://forum.community.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to suggest additions.
 :::

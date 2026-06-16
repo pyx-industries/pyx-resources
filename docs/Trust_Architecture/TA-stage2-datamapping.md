@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # UNTP Credential Mapping
 :::info In Development
-**Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
+**Our Trust Architecture Knowledge Base is evolving, and instructions will be regularly updated. For questions, visit our [Community Forums](https://forum.community.pyx.io/) or [Zulip Chat](https://chat.pyx.io/) to collaborate with experts.**
 
 Need help? Join our [💬 UNTP community chat](https://chat.pyx.io/#narrow/stream/25-Community---UNTP-Topics) for live support.
 :::

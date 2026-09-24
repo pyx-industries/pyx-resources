@@ -57,7 +57,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/pyx-industries/pyx-resources/edit/kb/',
+          editUrl: 'https://github.com/pyx-industries/pyx-resources/edit/main/',
         },
         blog: false,
         theme: {
